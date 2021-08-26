@@ -7,3 +7,6 @@ Sentimental Analysis is really powerful to understand the popularity of a produc
 
 #### Content
 The dataset contains public review and comments regarding the IPhoneX released in 2017 , along with the username and the date of the review.
+
+
+### Dataset link : <a href="https://www.kaggle.com/kewalkishang/iphonexreview">Link</a>
